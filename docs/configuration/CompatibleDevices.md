@@ -18,7 +18,8 @@ Follow this [link](../install/build/requirements/devices/iphone.md#ios-version-a
 
 - [Medtronic](settings/devices/pump.md#medtronic)  
 - [Omnipod Eros](settings/devices/pump.md#omnipod-eros)  
-- [Omnipod Dash](settings/devices/pump.md#omnipod-dash)  
+- [Omnipod Dash](settings/devices/pump.md#omnipod-dash)
+- [Omnipod 5](settings/devices/pump.md#omnipod-5) 
 - [Dana(RS/-i)](settings/devices/pump.md#danars-i)  
 - [Pump Simulator](settings/devices/pump.md#pump-simulator)  
 - _Medtrum (in testing)_  
